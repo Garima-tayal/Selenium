@@ -111,16 +111,6 @@ The project consists of several Java classes and CSS files that work together to
 * Run the following command in the terminal to run the unit tests: `mvn test`
 * This will execute the unit tests and generate the TestNG reports.
 
-📸 Screenshots
---------------
-
-### [Insert screenshots of the project in action]
-
-📦 API Reference
------------------
-
-### [Insert API reference documentation for the project]
-
 👤 Author
 ---------
 
